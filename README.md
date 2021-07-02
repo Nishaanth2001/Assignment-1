@@ -1,4 +1,12 @@
 # Assignment-1
+Creating a new application
+
+Create a new React Native project called "FirstApp":
+
+Create a new folder with a app name and open VS code in the current folder
+
+Once in the current folder on VS code open a new terminal from the top toolbar
+
 npx react-native init AwesomeProject
 
 npx react-native start
