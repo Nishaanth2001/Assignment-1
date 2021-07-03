@@ -1,12 +1,14 @@
 # Assignment-1
 
-Create a new React Native project called "Project"
+Intro to Reactnative.
 
-Create a new folder with app name and open VS code 
+Create a new React Native project called "Project".
 
-Set the directory to the current folder
+Create a new folder with app name and open VS code.
 
-Open new terminal from the top toolbar
+Set the directory to the current folder.
+
+Open new terminal from the top toolbar.
 
 Input the following codes:
 
@@ -15,5 +17,7 @@ Input the following codes:
   npx react-native start
 
   npx react-native run-android
+
+Screenshot:
 
 ![Screenshot (372)](https://user-images.githubusercontent.com/86832615/124267723-45398500-db56-11eb-831b-c73371738043.png)
